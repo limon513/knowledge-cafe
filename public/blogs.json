@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+      "title": "The Art of JavaScript",
+      "author": "John Doe",
+      "author_img": "https://images.unsplash.com/photo-1511367461989-f85a21fda167",
+      "posted_date": "2024-11-01",
+      "reading_time": 5,
+      "hashtag": ["#JavaScript", "#Coding", "#WebDevelopment"]
+    },
+    {
+      "id": 2,
+      "cover": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+      "title": "Exploring the MERN Stack",
+      "author": "Jane Smith",
+      "author_img": "https://images.unsplash.com/photo-1502378735452-bc7d86632805",
+      "posted_date": "2024-11-12",
+      "reading_time": 8,
+      "hashtag": ["#MERN", "#React", "#NodeJS"]
+    },
+    {
+      "id": 3,
+      "cover": "https://images.unsplash.com/photo-1517430816045-df4b7de4d1c9",
+      "title": "Node.js Performance Tips",
+      "author": "Emily Johnson",
+      "author_img": "https://images.unsplash.com/photo-1544725176-7c40e5a2c9f9",
+      "posted_date": "2024-10-28",
+      "reading_time": 6,
+      "hashtag": ["#NodeJS", "#Backend", "#Performance"]
+    },
+    {
+      "id": 4,
+      "cover": "https://images.unsplash.com/photo-1515169067865-5387ec356754",
+      "title": "A Beginner's Guide to MongoDB",
+      "author": "Chris Brown",
+      "author_img": "https://images.unsplash.com/photo-1508919801845-fc2ae1bc0a21",
+      "posted_date": "2024-11-05",
+      "reading_time": 10,
+      "hashtag": ["#MongoDB", "#Database", "#NoSQL"]
+    },
+    {
+      "id": 5,
+      "cover": "https://images.unsplash.com/photo-1528372444006-1bfc81acab9c",
+      "title": "Building Scalable APIs with Express",
+      "author": "Sophia Williams",
+      "author_img": "https://images.unsplash.com/photo-1502767089025-6572583495f6",
+      "posted_date": "2024-11-10",
+      "reading_time": 7,
+      "hashtag": ["#Express", "#APIs", "#Scalability"]
+    }
+  ]
+  

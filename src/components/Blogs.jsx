@@ -1,12 +1,24 @@
-import { useState } from "react";
 import Blog from "./Blog";
 
-export default function Blogs() {
-  const [blogs, setBlogs] = useState([]);
-
+export default function Blogs({
+  blogs,
+  bookmarked,
+  setBookmarked,
+  readTime,
+  setReadTime,
+}) {
   return (
     <div>
-      <Blog />
+      {blogs.map((blog, idx) => (
+        <Blog
+          key={idx}
+          blog={blog}
+          bookmarked={bookmarked}
+          setBookmarked={setBookmarked}
+          setReadTime={setReadTime}
+          readTime={readTime}
+        ></Blog>
+      ))}
     </div>
   );
 }
